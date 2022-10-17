@@ -1,2 +1,2 @@
 # testing-with-compass-lighthouse-
-compass practice
+compass practice 1
